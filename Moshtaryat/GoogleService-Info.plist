@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>788407664508-775veu40nc7o54dkrjgilnd8q2em1pue.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.788407664508-775veu40nc7o54dkrjgilnd8q2em1pue</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWH_vtHvi-7JddOXdY-R8WSvluRIw0in8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788407664508</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ammar.Moshtaryat</string>
+	<key>PROJECT_ID</key>
+	<string>moshtaryat-faecc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moshtaryat-faecc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788407664508:ios:d17b82ab7a6cf1fa99eef9</string>
+</dict>
+</plist>
